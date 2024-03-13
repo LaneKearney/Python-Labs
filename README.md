@@ -1,4 +1,4 @@
-<h1>JPython Labs</h1>
+<h1>Python Labs</h1>
 
 
 <h2>Description</h2>
